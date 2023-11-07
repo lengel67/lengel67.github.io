@@ -1,5 +1,4 @@
 baseURL = 'https://example.org/'
-languageCode = 'fr-fr'
-title = 'Blog lengel67'
-[[module.imports]]
-path = 'github.com/gethinode/hinode'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
