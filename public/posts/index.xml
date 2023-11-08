@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on lengel67 / F4L??</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on lengel67 / F4L??</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Nov 2023 08:38:36 +0100</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Premier article</title>
+      <link>https://example.org/posts/post0/</link>
+      <pubDate>Wed, 08 Nov 2023 08:38:36 +0100</pubDate>
+      <guid>https://example.org/posts/post0/</guid>
+      <description>À propos du site Ceci est le premier article écrit pour ce site. Le site utilise Hugo avec le thème ananke lien. Le thème va sûrement évoluer à l&amp;rsquo;avenir.
+L&amp;rsquo;écriture se fait en Markdown &amp;ndash;&amp;gt; trouver un bon éditeur Markdown github/git &amp;ndash;&amp;gt; liste des commandes utiles, générer les clés SSH pour push vers github Lorsque le site est lancé avec la commande hugo server -D, la modification puis la sauvegarde d&amp;rsquo;un fichier entraîne la mise à jour automatique du site.</description>
+    </item>
+  </channel>
+</rss>
