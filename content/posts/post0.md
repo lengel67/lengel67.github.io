@@ -6,7 +6,12 @@ draft = false
 
 # À propos du site
 
-Ceci est le premier article écrit pour ce site. Le site utilise [Hugo](https://gohugo.io) avec le thème *ananke* [lien](https://github.com/theNewDynamic/gohugo-theme-ananke). Le thème va sûrement évoluer à l'avenir.
+Ceci est le premier article écrit pour ce site. Le site utilise [Hugo](https://gohugo.io) avec le thème *ananke* [lien](https://github.com/theNewDynamic/gohugo-theme-ananke). Le thème va sûrement évoluer à l'avenir. 
+
+Note : trouver un thème, quelques idées :
+- [hbstack](https://hbstack.dev/)
+- hinode
+- 
 
 - L'écriture se fait en Markdown --> trouver un bon éditeur Markdown
 - github/git --> liste des commandes utiles, générer les clés SSH pour *push* vers github
