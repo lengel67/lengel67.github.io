@@ -1,0 +1,40 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+identifier = "gitlab"
+name = "Gitlab"
+url = "https://git.unistra.fr/lorry.engel"
+
+[social.params]
+icon = "brand-gitlab"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/lorry-engel/"
+
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "work"
+name = "IPCMS"
+url = "https://www.ipcms.fr/lorry-engel/"
+
+[social.params]
+icon = "briefcase"
+
+[[social]]
+identifier = "qrz"
+name = "QRZ"
+url = "https://www.qrz.com/db/F4LFI"
+
+[social.params]
+icon = "antenna"
