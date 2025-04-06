@@ -1,20 +1,31 @@
 ---
-title: Hello World
+title: Premier article
 description: Welcome to Hugo Theme Stack
 draft : false
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 2025-04-06
 image: cover.jpg
 categories:
     - Example Category
 tags:
     - Example Tag
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
-language: en
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+Premier test avec Hugo et le thème Stack. Quelques exemples de réalisation en programmation/électronique/radio à venir...
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+## À regarder :
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+- regarder comment bien gérer les languages : https://gohugo.io/content-management/multilingual/
+- faire une version minimale pour la réutiliser ailleurs
+
+## Quelques liens :
+
+https://jwt625.github.io/
+
+## Divers
+
+Pour tester le site en local :
+```md
+hugo server
+```
