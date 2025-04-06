@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Example Tag on Site exemple</title>
+        <title>Example Tag on lengel67-fr</title>
         <link>https://demo.stack.jimmycai.com/tags/example-tag/</link>
-        <description>Recent content in Example Tag on Site exemple</description>
+        <description>Recent content in Example Tag on lengel67-fr</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
         <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -20,12 +20,14 @@
 &lt;li&gt;faire une version minimale pour la réutiliser ailleurs&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;quelques-liens&#34;&gt;Quelques liens
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://jwt625.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://jwt625.github.io/&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://tabler.io/icons&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://tabler.io/icons&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://www.svgrepo.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://www.svgrepo.com/&lt;/a&gt; (à tester)&lt;/p&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://jwt625.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://jwt625.github.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://tabler.io/icons&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://tabler.io/icons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.svgrepo.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.svgrepo.com/&lt;/a&gt; (à tester)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;divers&#34;&gt;Divers
 &lt;/h2&gt;&lt;p&gt;Pour tester le site en local :&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;

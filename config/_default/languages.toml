@@ -3,17 +3,17 @@
 [fr]
 languageName = "Français"
 languagedirection = "ltr"
-title = "Site exemple"
+title = "lengel67-fr"
 weight = 1
 
 [en]
 languageName = "English"
 languagedirection = "ltr"
-title = "Example Site"
+title = "lengel67-en"
 weight = 2
 
 [de]
 languageName = "Deutsch"
 languagedirection = "ltr"
-title = "Beispiel"
+title = "lengel67-de"
 weight = 3

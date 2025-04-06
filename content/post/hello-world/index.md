@@ -21,9 +21,9 @@ Premier test avec Hugo et le thème Stack. Quelques exemples de réalisation en 
 
 ## Quelques liens
 
-https://jwt625.github.io/
-https://tabler.io/icons
-https://www.svgrepo.com/ (à tester)
+- https://jwt625.github.io/
+- https://tabler.io/icons
+- https://www.svgrepo.com/ (à tester)
 
 ## Divers
 

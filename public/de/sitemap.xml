@@ -2,23 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.stack.jimmycai.com/de/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://demo.stack.jimmycai.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://demo.stack.jimmycai.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://demo.stack.jimmycai.com/de/"
-                />
-  </url><url>
     <loc>https://demo.stack.jimmycai.com/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,6 +17,23 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://demo.stack.jimmycai.com/de/categories/"
+                />
+  </url><url>
+    <loc>https://demo.stack.jimmycai.com/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://demo.stack.jimmycai.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://demo.stack.jimmycai.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://demo.stack.jimmycai.com/de/"
                 />
   </url><url>
     <loc>https://demo.stack.jimmycai.com/de/tags/</loc>
