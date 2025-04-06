@@ -13,15 +13,19 @@
         
         <guid>https://demo.stack.jimmycai.com/p/hello-world/</guid>
         <description>&lt;img src="https://demo.stack.jimmycai.com/p/hello-world/cover.jpg" alt="Featured image of post Premier article" /&gt;&lt;p&gt;Premier test avec Hugo et le thème Stack. Quelques exemples de réalisation en programmation/électronique/radio à venir&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;à-regarder-&#34;&gt;À regarder :
+&lt;h2 id=&#34;à-regarder&#34;&gt;À regarder
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;regarder comment bien gérer les languages : &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/multilingual/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://gohugo.io/content-management/multilingual/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;faire une version minimale pour la réutiliser ailleurs&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;quelques-liens-&#34;&gt;Quelques liens :
+&lt;h2 id=&#34;quelques-liens&#34;&gt;Quelques liens
 &lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://jwt625.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://jwt625.github.io/&lt;/a&gt;&lt;/p&gt;
+    &gt;https://jwt625.github.io/&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://tabler.io/icons&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://tabler.io/icons&lt;/a&gt;
+&lt;a class=&#34;link&#34; href=&#34;https://www.svgrepo.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.svgrepo.com/&lt;/a&gt; (à tester)&lt;/p&gt;
 &lt;h2 id=&#34;divers&#34;&gt;Divers
 &lt;/h2&gt;&lt;p&gt;Pour tester le site en local :&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;

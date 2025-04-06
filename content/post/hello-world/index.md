@@ -14,14 +14,16 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 Premier test avec Hugo et le thème Stack. Quelques exemples de réalisation en programmation/électronique/radio à venir...
 
-## À regarder :
+## À regarder
 
 - regarder comment bien gérer les languages : https://gohugo.io/content-management/multilingual/
 - faire une version minimale pour la réutiliser ailleurs
 
-## Quelques liens :
+## Quelques liens
 
 https://jwt625.github.io/
+https://tabler.io/icons
+https://www.svgrepo.com/ (à tester)
 
 ## Divers
 
