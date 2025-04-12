@@ -16,8 +16,7 @@ Premier test avec Hugo et le thème Stack. Quelques exemples de réalisation en 
 
 ## À regarder
 
-- regarder comment bien gérer les languages : https://gohugo.io/content-management/multilingual/
-- faire une version minimale pour la réutiliser ailleurs
+- regarder comment bien gérer les langages : https://gohugo.io/content-management/multilingual/
 
 ## Quelques liens
 
