@@ -1,16 +1,15 @@
 ---
-title: "Mat et antenne en V inversé"
-description:
-date: 2025-04-15T22:00:00+02:00
+title: Mat et antenne en V inversé
+description: Présentation mat et antenne 20m
+date: 2025-04-15
+draft : false
+slug: mat-ant-v
+image: goupille.png
 categories:
     - Radioamateur
 tags:
     - antenne
-image:
-license:
-hidden: false
-comments: true
-draft: false
+weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
 ## Mat
@@ -37,9 +36,7 @@ Pour monter le mat à la verticale, j'utilise ce qui se trouve à proximité. En
 
 ## Antenne
 
-La première antenne que j'ai testé est un V inversé.
-V inversé
-dimensions
+La première antenne que j'ai testé est un V inversé. Elle est taillée pour la bande des 20m. Elle a été calculée l'aide d'outils disponibles en ligne puis ajoustée à l'aide d'un nanoVNA.
 
 ### Fixations
 

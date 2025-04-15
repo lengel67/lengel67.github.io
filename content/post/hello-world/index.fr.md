@@ -28,5 +28,5 @@ Premier test avec Hugo et le thème Stack. Quelques exemples de réalisation en 
 
 Pour tester le site en local :
 ```md
-hugo server
+hugo serve
 ```
